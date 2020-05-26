@@ -1,0 +1,1 @@
+# kafka-stream-avro-serialized-objects
