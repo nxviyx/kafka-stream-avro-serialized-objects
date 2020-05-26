@@ -1,0 +1,5 @@
+com\example\Employee.class
+com\example\Employee$Builder.class
+com\example\Employee$1.class
+com\example\KafkaAvroProducerVersion2.class
+com\example\KafkaAvroProducerVersion2$1.class
